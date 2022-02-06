@@ -1,5 +1,5 @@
-# Hola-mundo-de-GitHub
-Mi primer repositorio en esta plataforma.
+# Hola-mundo-de-GitHub_y_sus_ramas
+Mi primer branch o rama en esta plataforma.
 
 Creado: 06/02/2022
 Lugar: México
